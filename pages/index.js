@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-    <iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
+    <iframe src="youtube.com" name="iframe_a" title="Iframe Example"></iframe>
 
 <p><a href="https://youtube.com" target="iframe_a">.</a></p>
       </main>
