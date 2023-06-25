@@ -11,10 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+    <iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
+
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
       </main>
 
       <Footer />
