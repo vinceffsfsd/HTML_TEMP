@@ -13,7 +13,7 @@ export default function Home() {
       <main>
     <iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
 
-<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+<p><a href="https://youtube.com" target="iframe_a">.</a></p>
       </main>
 
       <Footer />
